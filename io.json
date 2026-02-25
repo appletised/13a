@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "files": {
+    "module": {
+      "url": "https://github.com/appletised/13a/releases/download/la/libnotamod.so",
+      "filename": "libnotamod.so"
+    },
+    "concealer": {
+      "url": "https://github.com/appletised/13a/releases/download/la/libdefinitelylegit.so",
+      "filename": "concealer.so"
+    },
+    "shadowhook": {
+      "url": "https://github.com/appletised/13a/releases/download/la/libshadowhook.so",
+      "filename": "libshadowhook.so"
+    }
+  }
+}
